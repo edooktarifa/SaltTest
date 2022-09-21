@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (6.3.1)
+  - netfox (1.21.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Kingfisher
+  - netfox
+  - NVActivityIndicatorView
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - netfox
+    - NVActivityIndicatorView
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  netfox: 9d5cc727fe7576c4c7688a2504618a156b7d44b7
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+
+PODFILE CHECKSUM: 2e101cad60fd96e1b2e6bb4bcdfb323fda74899a
+
+COCOAPODS: 1.11.3
